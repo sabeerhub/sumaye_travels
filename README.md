@@ -52,7 +52,7 @@ The website was designed and built with deep care for the agency's values: trust
 
 | Platform | Link |
 |----------|------|
-| Website | [sumayetravel.com.ng](https://sumayetravel.com.ng) |
+| Website | [sumayetravel.com.ng](https://sabeerhub.github.io/sumaye_travels) |
 | WhatsApp | [+234 911 810 0328](https://wa.me/2349118100328) |
 | Email | sumayetravel@gmail.com |
 
